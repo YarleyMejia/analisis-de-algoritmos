@@ -1,0 +1,53 @@
+# ==============================
+# IntelliJ IDEA
+# ==============================
+.idea/
+*.iml
+*.iws
+workspace.xml
+tasks.xml
+dictionaries/
+shelf/
+
+# ==============================
+# Maven
+# ==============================
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+
+# ==============================
+# Logs y temporales
+# ==============================
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# ==============================
+# Archivos del sistema operativo
+# ==============================
+.DS_Store
+Thumbs.db
+
+# ==============================
+# HTTP Client de IntelliJ
+# ==============================
+httpRequests/
+
+# ==============================
+# Configuración de conexiones DB de IntelliJ
+# ==============================
+dataSources/
+dataSources.local.xml
+
+# ==============================
+# Maven Wrapper
+# ==============================
+.mvn/wrapper/maven-wrapper.jar
